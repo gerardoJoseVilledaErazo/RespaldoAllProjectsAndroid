@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Registro Proveedores App</string>
+    <string name="msgDerechosReservados">Todos los Derechos Reservados ® 2022</string>
+
+    <!-- Datos Alumno Activity-->
+    <string name="DevBy">Desarrollado por:</string>
+    <string name="Name">Nombre:</string>
+    <string name="MyName">Gerardo José Villeda Erazo</string>
+    <string name="Code">Código:</string>
+    <string name="MyCode">VE16-I04-001</string>
+    <string name="Dev">Developer</string>
+    <string name="tvVersion">v 1.0</string>
+
+    <string name="hint_name">Ingrese el nombre</string>
+    <string name="hint_number">Ingrese el número de telefóno</string>
+    <string name="registrar">Registrar</string>
+    <string name="agregar_contacto">Agregar contacto</string>
+    <string name="FullName">Developed by: Gerardo Jose Villeda Erazo. Todos los Derechos Reservados ® 2022</string>
+    <string name="txt_contact_list">Lista Contactos</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombre_contacto">Nombre contacto</string>
+    <string name="Numero">#</string>
+    <string name="tel">Tel.</string>
+    <string name="Eliminar">Eliminar</string>
+
+    <!--    Main Activity-->
+    <string name="agregar_proveedor">Agregar Proveedor</string>
+    <string name="mostrar_lista">Mostrar lista</string>
+    <string name="desarrollador">Desarrollador</string>
+    <string name="hint_id">Ingrese el ID</string>
+    <string name="hint_nombre">Ingrese el nombre</string>
+    <string name="hint_nit">Ingrese el nit</string>
+    <string name="hint_tipo_proveedor">Ingrese Tipo Proveedor</string>
+    <string name="txt_proveedor_list">Lista de Proveedores</string>
+    <string name="msg_dialog">Guardando... por favor espere</string>
+    <string name="modificar_proveedor">Modificar Proveedor</string>
+    <string name="modificar">Modificar</string>
+</resources>

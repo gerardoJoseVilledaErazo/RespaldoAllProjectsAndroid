@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_rounded_green.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_rounded_grey.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_rounded_grey_solid.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_rounded_grey_stroke.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_rounded_primary_alpha.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_rounded_red.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_rounded_red_stroke.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_rounded_red_stroke_full.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_rounded_stroke.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/bg_small_rounded_red.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/color_cursor.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_arrow_back_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_arrow_back_white_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_arrow_right.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_call_primary.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_call_white.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_cancel_status.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_cancelled.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_cart.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_cart_empty.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_chat_white.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_checked.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_close.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_contact_us.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_contributors.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_credit_card.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_debit.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_drawer_help.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_drawer_info.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_status_refund.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_upi.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_website.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/drawable/ic_zinger_notification_icon.xml" value="0.1415" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/font/open_sans_bold.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/font/open_sans_semibold.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/font/poppins.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/font/poppins_bold.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/font/poppins_medium.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/font/poppins_semibold.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/bottom_sheet_campus_list.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/bottom_sheet_delivery_location.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/bottom_sheet_rate_food.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/bottom_sheet_shop_info.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/bottom_sheet_verify_otp.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/header_layout.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/inc_dec_view.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/item_campus.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/item_cart_product.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/item_food.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/item_order.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/item_order_product.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/item_order_status.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/item_payment_mode.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/item_search.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/item_shop.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/item_shop_small.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/layout_empty_view.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/layout_states.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/shimmering_item_order.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/layout/shimmering_item_shop.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/zinger/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

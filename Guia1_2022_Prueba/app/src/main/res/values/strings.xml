@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Guia1</string>
+    <string name="FullName">Developed by: Gerardo Jose Villeda Erazo</string>
+    <string name="msgMyFirstGuide">Mi Primera Guía</string>
+    <string name="msgCalc">Calculadora</string>
+    <string name="msgForm_login">Formulario Login</string>
+    <string name="msgMy_data">Mis Datos</string>
+
+    <!-- Datos Alumno Activity-->
+    <string name="DevBy">Desarrollado por:</string>
+    <string name="Name">Nombre:</string>
+    <string name="MyName">Gerardo José Villeda Erazo</string>
+    <string name="Code">Código:</string>
+    <string name="MyCode">VE16-I04-001</string>
+    <string name="Dev">Developer</string>
+
+    <!-- Login Activity-->
+    <string name="button_login">OK</string>
+    <string name="button_reset">CANCEL</string>
+    <string name="txt_enter_information">Please, Enter Login Information</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="conditions" translatable="false">I accept terms and conditions.</string>
+
+    <!-- Calculadora Activity-->
+    <string name="signDAC">AC</string>
+    <string name="signDe">DEL</string>
+    <string name="signPer">%</string>
+    <string name="signDivision">/</string>
+    <string name="signMul">*</string>
+    <string name="signRes">-</string>
+    <string name="signSum">+</string>
+    <string name="signIg">=</string>
+</resources>

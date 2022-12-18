@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Student\' DB</string>
+    <string name="agregar">Add</string>
+    <string name="buscar">Search</string>
+    <string name="carrera">Carrer</string>
+    <string name="edad">Age</string>
+    <string name="eliminar">Delete</string>
+    <string name="modificar">Update</string>
+    <string name="no_control">Control No.</string>
+    <string name="nombre">Student Name</string>
+    <string name="listado">List</string>
+</resources>

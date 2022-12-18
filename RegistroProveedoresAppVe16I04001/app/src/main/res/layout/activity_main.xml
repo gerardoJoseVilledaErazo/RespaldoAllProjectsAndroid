@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+<!--    ID-->
+    <TextView
+        android:id="@+id/tv_id_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="ID : " />
+
+    <EditText
+        android:id="@+id/et_id"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="20dp"
+        android:layout_toRightOf="@+id/tv_nombre_label"
+        android:hint="Digite ID"
+        android:padding="10dp" />
+<!--    Nombre-->
+    <TextView
+        android:id="@+id/tv_nombre_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:layout_below="@+id/tv_id_label"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:text="Nombre : " />
+
+    <EditText
+        android:id="@+id/et_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_id"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_toRightOf="@+id/tv_nombre_label"
+        android:hint="Digite Nombre"
+        android:inputType="textPersonName"
+        android:padding="10dp" />
+<!--    nit-->
+    <TextView
+        android:id="@+id/tv_nit_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:layout_below="@+id/tv_nombre_label"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:text="NIT : " />
+
+    <EditText
+        android:id="@+id/et_nit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_nombre"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_toRightOf="@+id/tv_nombre_label"
+        android:hint="Digite NIT"
+        android:inputType="text"
+        android:padding="10dp" />
+
+<!--    Tipo Proveedor-->
+    <TextView
+        android:id="@+id/tv_tipo_proveedor_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:layout_below="@+id/tv_nit_label"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:text="Tipo : " />
+
+    <EditText
+        android:id="@+id/et_tipo_proveedor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et_nit"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_toRightOf="@+id/tv_nombre_label"
+        android:hint="Digite Tipo Proveedor"
+        android:inputType="text"
+        android:padding="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_tipo_proveedor_label"
+        android:id="@+id/layout_btn"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:layout_marginTop="20dp">
+        <Button
+            android:id="@+id/btn_add"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Add"
+            android:layout_gravity="center_horizontal"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view2"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/layout_btn"
+        android:scrollbars="vertical"/>
+
+</RelativeLayout>

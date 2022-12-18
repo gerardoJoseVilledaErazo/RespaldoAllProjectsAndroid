@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/padding32"
+    android:background="@color/cardview_dark_background"
+    tools:context=".ModificarProveedorVeActivity">
+
+    <TextView
+        android:id="@+id/txvTituloModificar"
+        android:textAppearance="@style/TextAppearance.VE.Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/modificar_proveedor"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textAlignment="center"
+        app:layout_constraintVertical_bias="0.05"/>
+
+    <!--    id-->
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/id_text_input_layout"
+        style="@style/Widget.VE.TextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:endIconMode="clear_text"
+        android:hint="@string/hint_id"
+        app:layout_constraintTop_toBottomOf="@id/txvTituloModificar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.10">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_update_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@android:color/white"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textSize_button"
+            android:inputType="phone"
+            android:maxLines="1" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!--    nombre-->
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/nombre_text_input_layout"
+        style="@style/Widget.VE.TextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:endIconMode="clear_text"
+        android:hint="@string/hint_nombre"
+        app:layout_constraintTop_toBottomOf="@+id/id_text_input_layout"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.10">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_update_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@android:color/white"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textSize_button"
+            android:inputType="textPersonName"
+            android:maxLines="1" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!--    nit-->
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/nit_text_input_layout"
+        style="@style/Widget.VE.TextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:endIconMode="clear_text"
+        android:hint="@string/hint_nit"
+        app:layout_constraintTop_toBottomOf="@+id/nombre_text_input_layout"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.10">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_update_nit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@android:color/white"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textSize_button"
+            android:inputType="text"
+            android:maxLines="1" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <!--    tipo proveedor-->
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tipo_proveedor_text_input_layout"
+        style="@style/Widget.VE.TextInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:endIconMode="clear_text"
+        android:hint="@string/hint_tipo_proveedor"
+        app:layout_constraintTop_toBottomOf="@+id/nit_text_input_layout"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.10">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_update_tipo_proveedor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@android:color/white"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textSize_button"
+            android:inputType="text"
+            android:maxLines="1" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnUpdate"
+        style="@style/Widget.VE.Button.next_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/modificar"
+        android:textSize="@dimen/textSize_button"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tipo_proveedor_text_input_layout"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Registro APP</string>
+
+    <!--    Text Views-->
+    <string name="tv_Examen">PRIMER EXAMEN PARCIAL</string>
+    <string name="tv_miNombre">Gerardo José Villeda Erazo</string>
+    <string name="tv_aplicacion">APLICACION DE REGISTRO</string>
+    <!--    Edit text-->
+    <string name="edt_nombre">Nombre</string>
+    <string name="edt_genero">Genero</string>
+    <string name="edt_edad">Edad</string>
+    <string name="edt_direccion">Direccion</string>
+    <!--    Checkbox-->
+    <string name="chb_terminos">Acepto los términos y condiciones.</string>
+    <!--    Botones-->
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_registrar">Registrar</string>
+</resources>

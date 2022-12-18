@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Evaluacion1</string>
+    <string name="btn_AgregarEncuesta">Agregar Encuesta</string>
+    <string name="btn_VerLista">Ver lista</string>
+    <string name="btn_VerDatos">Ver datos</string>
+    <string name="tv_Desarrollado">Desarrollado por</string>
+    <string name="tv_Nombre">Nombre: Villeda Erazo Gerardo José</string>
+    <string name="tv_Codigo">Código: FT18-I04-001</string>
+    <string name="tv_Nombre2">Nombre: Laura Rosalinda Ramirez Escobar</string>
+    <string name="tv_Codigo2">Código: RE18-I04-002</string>
+</resources>

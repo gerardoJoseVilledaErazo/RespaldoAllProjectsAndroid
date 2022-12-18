@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_menu_send.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-hdpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-hdpi/ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_content_home.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/content_home.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/menu_activity_home_drawer.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/menu/activity_home_drawer.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-ldpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-ldpi/ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-ldpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-ldpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxhdpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxhdpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_access_time_black_24dp.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_access_time_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_welcome_slide4.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/welcome_slide4.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_menu_share.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-mdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-mdpi/ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-hdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-hdpi/ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxxhdpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxxhdpi/ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-hdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-hdpi/ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-ldpi_ic_attach_money_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-ldpi/ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxxhdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxxhdpi/ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable_ic_movie.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/drawable/ic_movie.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-hdpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-hdpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_welcome_slide1.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/welcome_slide1.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_food_item.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/food_item.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_menu_manage.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxhdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxhdpi/ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-ldpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-ldpi/ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xhdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xhdpi/ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_activity_welcome.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable_ic_discount.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/drawable/ic_discount.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxhdpi/ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-hdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-hdpi/ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable_ic_travel.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/drawable/ic_travel.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-mdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-mdpi/ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_restaurant_menu_black_24dp.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_restaurant_menu_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_welcome_slide2.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/welcome_slide2.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_menu_list.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/menu_list.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_activity_food_list.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/activity_food_list.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xhdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xhdpi/ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-mdpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-mdpi/ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/menu_home.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/menu/home.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-mdpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-mdpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_nav_header_home.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/nav_header_home.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xhdpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xhdpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-ldpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-ldpi/ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxxhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxxhdpi/ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_activity_home.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxxhdpi_ic_access_time_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxxhdpi/ic_access_time_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable_ic_food.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/drawable/ic_food.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_welcome_slide3.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/welcome_slide3.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxhdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxhdpi/ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xhdpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xhdpi/ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_activity_main.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_cart_layout.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/cart_layout.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xhdpi_ic_exit_to_app_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xhdpi/ic_exit_to_app_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_activity_food_detail.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/activity_food_detail.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_exit_to_app_black_24dp.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxhdpi_ic_restaurant_menu_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxhdpi/ic_restaurant_menu_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable_my_bg.jpg.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/drawable/my_bg.jpg"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_attach_money_black_24dp.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_attach_money_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxxhdpi_ic_shopping_cart_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxxhdpi/ic_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-mdpi_ic_attach_money_black_24dp.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-mdpi/ic_attach_money_black_24dp.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_app_bar_home.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/layout_activity_cart.xml.flat",
+        "source": "com.example.hp.myapplication.app-main-20:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_shopping_cart_black_24dp.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.hp.myapplication.app-merged_res-18:/drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "com.example.hp.myapplication.app-pngs-13:/drawable-anydpi-v21/ic_menu_camera.xml"
+    }
+]

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiAPP01</string>
+
+    <string name="saludo_es">Hola Mundo , Bienvenidos!!</string>
+    <string name="saludo_en">Hello World, Welcome!!</string>
+
+
+</resources>

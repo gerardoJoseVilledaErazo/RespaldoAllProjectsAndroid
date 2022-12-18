@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guia1</string>
+    <string name="MiPrimerGuide">My first guide</string>
+    <string name="msgCalc">Calculator</string>
+    <string name="form_login">Form Login</string>
+    <string name="mis_dat">Data</string>
+    <string name="msgEmail" translatable="false">Email</string>
+    <string name="msgPassword">Password</string>
+    <string name="msgLogin">Login</string>
+
+    <string name="signDAC">AC</string>
+    <string name="signDe">DEL</string>
+    <string name="signPer">%</string>
+    <string name="signDivision">/</string>
+    <string name="signMul">*</string>
+    <string name="signRes">-</string>
+    <string name="signSum">+</string>
+    <string name="signIg">=</string>
+
+
+    <string name="msgDatAl">Alumn Data:</string>
+    <string name="msgNom">Name</string>
+    <string name="msgCod">Code</string>
+    <string name="msgCorr">Assistence Correlative</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppClientes</string>
+    <string name="Agregar_Cliente">Agregar cliente</string>
+    <string name="hint_name">Ingrese su nombre</string>
+    <string name="hint_address">Ingrese su direccion</string>
+    <string name="registrar">Registrar</string>
+    <string name="hint_id">Ingrese su ID</string>
+</resources>

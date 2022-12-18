@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Guia03 - ITech S.A de C.V</string>
+
+    <!--    Android Manifest Label-->
+    <string name="lblMisDatos">Mis Datos</string>
+    <string name="lbl_name_MainActivityItech">Itech</string>
+    <string name="lbl_name_activity_seleccionar">Seleccionar</string>
+    <string name="lbl_name_activity_trabajadorHora">TrabajadorHora</string>
+    <string name="lbl_name_activity_trabajadorTC">TrabajadorTC</string>
+    <string name="lbl_name_activity_MostrarListaTrabajadores">Trabajadores</string>
+    <string name="lbl_name_activity_Datos_Acerca_de">Acerca de</string>
+
+    <!--    Datos Acerca de Activity-->
+    <string name="tvDesarrollador">Desarrollado por</string>
+    <string name="tvMiNombre">Nombre: Gerardo José Villeda Erazo</string>
+    <string name="tvMiCodigo">Código: VE16-I04-001</string>
+    <string name="tvMiCorreo">Correo: VE16I04001@usonsonate.edu.sv</string>
+    <string name="tvVersion">v 1.0</string>
+
+    <!--    Main Activity-->
+    <string name="tvBienvenida">¡Te damos la Bienvenida!</string>
+    <string name="btnAgregarTrabajador">Agregar Trabajador</string>
+    <string name="btnMostrarLista">Mostrar Lista</string>
+    <string name="btnMostrarDatos">Mostrar Datos</string>
+    <string name="btnAcercade">Acerca de</string>
+
+    <!--    Mostrar Lista Activity-->
+    <string name="tvDerechosReservados">Derechos Reservados ® 2022</string>
+    <string name="tvListado">Listado</string>
+
+    <!--    Seleccionar Trabajador Activity-->
+    <string name="msg_select_worker">Seleccione el tipo trabajador</string>
+    <string name="rbtTH">Trabajador por hora</string>
+    <string name="rbtTC">Trabajador tiempo completo</string>
+    <string name="btnSiguiente">Siguiente</string>
+
+    <!--    Trabajador Hora Activity-->
+    <string name="tvRegistro">Registro</string>
+    <string name="edtID">Digite el ID</string>
+    <string name="edtNombre">Digite el nombre</string>
+    <string name="edtApellido">Digite el apellido</string>
+    <string name="edtEdad">Digite la edad</string>
+    <string name="edtNumHoras">Digite el valor de la hora</string>
+    <string name="edtValorHora">Digite el número de horas</string>
+
+    <string name="tvID">ID</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvApellido">Apellido</string>
+    <string name="tvEdad">Edad</string>
+    <string name="tvNumHoras">Valor</string>
+    <string name="tvValorHora">Horas</string>
+
+    <string name="btnAgregar">Agregar</string>
+
+    <!--    Trabajador TC Activity-->
+    <string name="edtSalarioMensual">Digite el salario mensual</string>
+
+    <string name="tvSalario">Salario</string>
+
+</resources>

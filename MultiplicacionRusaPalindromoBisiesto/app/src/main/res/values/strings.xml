@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Guia de Ejercicios</string>
+    <string name="msgFullName">Desarrollado por: Gerardo Jose Villeda Erazo</string>
+    <string name="msgWelcome">Bienvenido/a</string>
+    <string name="msgMyFirstGuide">Mi Primera Guía</string>
+    <string name="msgRussianMultiplication">Multiplicación Rusa</string>
+    <string name="msgPalindrome">Palindrome</string>
+    <string name="msgLeapYear">Bisiesto</string>
+    <string name="msgMy_data">Mis Datos</string>
+
+    <!-- My Data Activity-->
+    <string name="DevBy">Desarrollado por:</string>
+    <string name="Name">Nombre:</string>
+    <string name="MyName">Gerardo José Villeda Erazo</string>
+    <string name="Code">Código:</string>
+    <string name="MyCode">VE16-I04-001</string>
+    <string name="Dev">Developer</string>
+
+    <!-- Russian Multiplication Activity -->
+
+    <!-- Palindrome Activity -->
+    <string name="msgWord">Palabra:</string>
+    <string name="hintEnterWord">Ingrese una palabra</string>
+
+    <!-- Leap Year Activity -->
+    <string name="msgYear">Año:</string>
+
+    <string name="btnProcess">Procesar</string>
+</resources>

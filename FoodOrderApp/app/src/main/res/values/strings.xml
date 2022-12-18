@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="minus">-</string>
+    <string name="add">+</string>
+    <string name="add_to_basket">Añadir al carrito</string>
+    <string name="basket">Mi carrito</string>
+    <string name="delete">Borrar</string>
+    <string name="basket_shopping">Cesta</string>
+    <string name="ucretsiz_teslimat">Entrega gratis</string>
+    <string name="_25_35_dk">25-35 dk</string>
+    <string name="welcome">COMIDA DELICIOSA LLEGA A TU PUERTA EN MINUTOS</string>
+    <string name="basla">Comienzo</string>
+    <string name="siparis_alindi">Felicitaciones, su pedido ha sido recibido.</string>
+    <string name="anasayfa">Página de inicio</string>
+    <string name="ordenar">Ordenar</string>
+</resources>

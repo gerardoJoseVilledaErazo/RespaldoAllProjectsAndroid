@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginStart="@dimen/min_margin_default"
+    android:layout_marginEnd="@dimen/min_margin_default"
+    android:clickable="true"
+    android:focusable="true"
+    android:layout_marginTop="@dimen/min_margin_default">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+        <TextView
+            android:id="@+id/txvId"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="id"
+            android:textSize="@dimen/text_size_items"
+            android:textAppearance="?attr/textAppearanceCaption"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginHorizontal="@dimen/min_margin_default"/>
+        <TextView
+            android:id="@+id/txvNombre"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="nombre"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txvId"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:textSize="@dimen/text_size_items"
+            android:layout_marginHorizontal="@dimen/min_margin_default"
+            android:textAppearance="?attr/textAppearanceCaption"/>
+        <TextView
+            android:id="@+id/txvNit"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="nit"
+            app:layout_constraintStart_toEndOf="@id/txvId"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textAlignment="textEnd"
+            android:textSize="@dimen/text_size_items"
+            android:layout_marginHorizontal="@dimen/min_margin_default"
+            android:textAppearance="?attr/textAppearanceCaption"/>
+
+        <TextView
+            android:id="@+id/txvTipoProveedor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="textEnd"
+            android:textAppearance="?attr/textAppearanceCaption"
+            android:textSize="@dimen/text_size_items"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.262"
+            app:layout_constraintStart_toEndOf="@id/txvNombre"
+            app:layout_constraintTop_toBottomOf="@id/txvNit"
+            tools:text="TipoProveedor" />
+
+        <TextView
+            android:id="@+id/tv_delete_item"
+            android:drawableEnd="@drawable/ic_delete"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.50"
+            app:layout_constraintStart_toEndOf="@id/txvTipoProveedor"
+            app:layout_constraintTop_toBottomOf="@id/txvNit"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textAlignment="textEnd"
+            android:layout_marginHorizontal="@dimen/min_margin_default"/>
+
+        <TextView
+            android:id="@+id/tv_update_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Modificar"
+            android:textSize="@dimen/text_size_items"
+            app:layout_constraintBottom_toBottomOf="@+id/tv_delete_item"
+            app:layout_constraintEnd_toEndOf="@+id/tv_delete_item"
+            app:layout_constraintHorizontal_bias="0.574"
+            app:layout_constraintStart_toEndOf="@+id/txvTipoProveedor"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.931" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.material.card.MaterialCardView>

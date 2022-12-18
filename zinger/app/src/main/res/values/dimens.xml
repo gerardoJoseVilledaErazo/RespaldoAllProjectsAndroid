@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_normal_size">16sp</dimen>
+    <dimen name="status_small_size">12sp</dimen>
+    <dimen name="status_dot_normal_size">16dp</dimen>
+    <dimen name="status_dot_small_size">12dp</dimen>
+    <!--    sliderbanner-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="standard_margin">8dp</dimen>
+    <dimen name="standard_margin_x2">16dp</dimen>
+    <dimen name="banner_slider_settings_margin">20dp</dimen>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/padding32"
+    android:background="@color/cardview_dark_background"
+    tools:context=".VEMainActivity">
+
+    <Button
+        android:id="@+id/btnAgregar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/agregar_proveedor"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintVertical_bias="0.30"
+        android:textAllCaps="false"
+        android:textSize="@dimen/textSize_button"/>
+
+    <Button
+        android:id="@+id/btnMostrarLista"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mostrar_lista"
+        app:layout_constraintTop_toBottomOf="@id/btnAgregar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintVertical_bias="0.1"
+        android:textAllCaps="false"
+        android:textSize="@dimen/textSize_button"/>
+    <Button
+        android:id="@+id/btnMostrarDatos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/desarrollador"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnMostrarLista"
+        app:layout_constraintStart_toStartOf="parent"
+        android:textAllCaps="false"
+        app:layout_constraintVertical_bias="0.1"
+        android:textSize="@dimen/textSize_button"/>
+
+    <TextView
+        android:id="@+id/tvDerechosReservados"
+        android:layout_marginTop="64dp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textSize_button"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/msgDerechosReservados"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btnMostrarDatos"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

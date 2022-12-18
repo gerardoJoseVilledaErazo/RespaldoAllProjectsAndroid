@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">APIWebVE</string>
+
+    <!-- item_nota_ve -->
+    <string name="text_ID">ID</string>
+    <string name="text_TITULO">Titulo</string>
+    <string name="text_DESCRIPCION">Descripcion</string>
+    <string name="text_FECHA">Fecha</string>
+    <string name="text_USUARIO">Usuario</string>
+    <string name="btn_Update">Update</string>
+    <string name="btn_Delete">Delete</string>
+
+    <!-- new ve nota -->
+    <string name="txt_nota_list">Note List</string>
+    <string name="txt_new_nota">New Note</string>
+    <string name="button_back">Back</string>
+    <string name="button_save">Save</string>
+
+    <string name="hint_titulo">Title</string>
+    <string name="hint_descripcion">Description</string>
+    <string name="hint_fecha">Date</string>
+    <string name="hint_user">User</string>
+    <!--
+
+-->
+
+</resources>

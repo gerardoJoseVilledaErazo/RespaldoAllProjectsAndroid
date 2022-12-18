@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Tu Encuesta SV</string>
+
+    <!--    Android Manifest Labels -->
+    <string name="lbl_name_activity_Mis_Datos">Mis Datos</string>
+    <string name="lbl_name_activity_Solicitar_Datos">Solicitar datos</string>
+    <string name="lbl_name_activity_Categoria_Comidas">Categoria Comidas</string>
+    <string name="lbl_name_activity_Lista_de_comidas">Lista de comidas</string>
+    <string name="lbl_name_activity_Mostrar_Lista">Mostrar Lista</string>
+    <string name="lbl_name_activity_Datos_Acerca_de">Acerca de</string>
+
+    <!--    Datos | Acerca de Activity  -->
+    <string name="tvDesarrolladores">Desarrollado por</string>
+    <string name="tvMiNombre">Nombre: Gerardo José Villeda Erazo</string>
+    <string name="tvMiCodigo">Código: VE16-I04-001</string>
+    <string name="tvMiNombre2">Nombre: Carlos Armando Vides Villacorta</string>
+    <string name="tvMiCodigo2">Código: VV15-I04-001</string>
+    <string name="tvVersion">v 1.0</string>
+
+    <!--    Main Activity  -->
+    <string name="btn_AgregarEncuesta">Agregar Encuesta</string>
+    <string name="btn_MostrarLista">Mostrar lista</string>
+    <string name="btn_Acercade">Acerca de</string>
+    <string name="btn_Salir">Salir</string>
+
+    <!--    Solicitar Datos Activity  -->
+    <string name="tv_encuestado">Datos del encuestado/a</string>
+    <string name="tv_Nombres">Nombres</string>
+    <string name="tv_Genero">Genero</string>
+    <string name="tv_Edad">Edad</string>
+
+    <string name="btn_Siguiente">Siguiente</string>
+    <string name="rb_Masculino">Masculino</string>
+    <string name="rb_Femenino">Femenino</string>
+    <string name="rb_Otro">Otro</string>
+
+    <string name="hint_nombres">Digite su nombre</string>
+    <string name="hint_edad">Digite su edad</string>
+
+    <!--    Lista de comidas Activity  -->
+    <string name="tv_seleccione_comida_favorita">Seleccione su comida favorita</string>
+    <string name="btn_Guardar">Guardar</string>
+    <string name="tv_porcentaje">0%</string>
+
+    <!--    Categoria de comidas Activity  -->
+    <string name="tv_elija_una_categoria">Elija una categoria</string>
+    <string name="rb_Carnes">Carnes</string>
+    <string name="rb_Ensaladas">Ensaladas</string>
+    <string name="rb_Frutas">Frutas</string>
+
+    <!--    Mostrar Lista Activity-->
+    <string name="tvDerechosReservados">Derechos Reservados ® 2022</string>
+    <string name="tvListado">Listado</string>
+</resources>

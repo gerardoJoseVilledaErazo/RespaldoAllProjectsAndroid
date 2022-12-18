@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Guia1</string>
+    <string name="MiPrimerGuide">Mi Primera Guía</string>
+    <string name="msgCalc">Calculadora</string>
+    <string name="form_login">Formulario Login</string>
+    <string name="mis_dat">Mis Datos</string>
+    <string name="msgEmail" translatable="false">Correo electrónico</string>
+    <string name="msgPassword">Contraseña</string>
+    <string name="msgLogin">Iniciar Sesión</string>
+
+    <string name="signDAC">AC</string>
+    <string name="signDe">DEL</string>
+    <string name="signPer">%</string>
+    <string name="signDivision">/</string>
+    <string name="signMul">*</string>
+    <string name="signRes">-</string>
+    <string name="signSum">+</string>
+    <string name="signIg">=</string>
+
+
+    <string name="msgDatAl">Datos del alumno:</string>
+    <string name="msgNom">Nombre</string>
+    <string name="msgCod">Código</string>
+    <string name="msgCorr">Correlativo de asistencia</string>
+</resources>

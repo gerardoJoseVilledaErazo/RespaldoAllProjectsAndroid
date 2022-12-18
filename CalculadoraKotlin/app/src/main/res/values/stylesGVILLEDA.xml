@@ -1,0 +1,54 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Theme.GVILLEDA"
+        parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+    </style>
+
+    <style name="TextAppearance.GVILLEDA.TextInputLayout.HintText"
+        parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="Widget.GVILLEDA.Button.Update"
+        parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/teal_200</item>
+        <item name="android:stateListAnimator" tools:ignore="NewApi">
+            @animator/gvilleda_next_button_state_list_anim
+        </item>
+    </style>
+
+    <style name="Widget.GVILLEDA.Button.Delete"
+        parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/design_default_color_error</item>
+        <item name="android:stateListAnimator" tools:ignore="NewApi">
+            @animator/gvilleda_next_button_state_list_anim
+        </item>
+    </style>
+
+    <style name="Widget.GVILLEDA.Toolbar"
+        parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/colorAccent</item>
+        <item name="android:theme">@style/Theme.GVILLEDA</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="titleTextAppearance">@style/TextAppearance.GVILLEDA.Toolbar</item>
+    </style>
+
+    <style name="TextAppearance.GVILLEDA.Toolbar"
+        parent="TextAppearance.MaterialComponents.Button">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Widget.GVILLEDA.Backdrop" parent="">
+        <item name="android:background">@color/colorAccent</item>
+    </style>
+
+</resources>

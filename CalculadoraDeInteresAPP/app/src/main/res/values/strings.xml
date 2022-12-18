@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculadora de Interés</string>
+    <string name="labelResultado">Resultado</string>
+    <!--    Hints de los EditTexts   -->
+    <string name="hintMonto">Ingrese su monto</string>
+    <string name="hintPorcentaje">0-100%</string>
+    <!--    Botones   -->
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnRegresar">Regresar</string>
+    <!--    Salidas TextViews   -->
+    <string name="tvInteres">Interes:</string>
+    <string name="tvMontoNeto">Monto Neto:</string>
+    <string name="tvBienvenido">Bienvenido/a</string>
+    <string name="tvSuCalculoEs">Su cálculo es:</string>
+    <string name="tvMonto">Monto:</string>
+    <string name="tvPorcentaje">Porcentaje:</string>
+</resources>

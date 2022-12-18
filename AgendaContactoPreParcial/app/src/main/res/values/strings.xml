@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AgendaContactoPreParcial</string>
+    <string name="btn_Delete">Eliminar</string>
+    <string name="btn_Update">Actualizar</string>
+    <string name="text_PHONE">6666</string>
+    <string name="text_NAME">Juan</string>
+    <string name="text_ID">1</string>
+    <string name="txt_new_contact">Nuevo Contacto</string>
+    <string name="hint_contact_name">Digite nombre del contacto</string>
+    <string name="hint_contact_phone">Digite numero tel.</string>
+    <string name="button_save">Guardar</string>
+    <string name="button_back">Eliminar</string>
+    <string name="FullName">Developed by: Gerardo Jose Villeda Erazo. Todos los Derechos Reservados ® 2022</string>
+    <string name="txt_contact_list">Lista de Contactos</string>
+    <string name="msg_dialog">Guardando... por favor espere</string>
+</resources>

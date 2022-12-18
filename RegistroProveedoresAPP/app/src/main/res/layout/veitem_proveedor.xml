@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginStart="@dimen/min_margin_default"
+    android:layout_marginEnd="@dimen/min_margin_default"
+    android:clickable="true"
+    android:focusable="true"
+    android:layout_marginTop="@dimen/min_margin_default">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+        <TextView
+            android:id="@+id/tv_id_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="1234567890"
+            android:textSize="@dimen/text_size_items"
+            android:textAppearance="?attr/textAppearanceCaption"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginHorizontal="@dimen/min_margin_default"/>
+        <TextView
+            android:id="@+id/tv_nombre_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="Nombre Proveedor"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_id_item"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:textSize="@dimen/text_size_items"
+            android:layout_marginHorizontal="@dimen/min_margin_default"
+            android:textAppearance="?attr/textAppearanceCaption"/>
+        <TextView
+            android:id="@+id/tv_nit_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            tools:text="04978266-6"
+            app:layout_constraintStart_toEndOf="@id/tv_id_item"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textAlignment="textEnd"
+            android:textSize="@dimen/text_size_items"
+            android:layout_marginHorizontal="@dimen/min_margin_default"
+            android:textAppearance="?attr/textAppearanceCaption"/>
+        <TextView
+            android:id="@+id/tv_tipo_proveedor_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Tipo Proveedor"
+            app:layout_constraintStart_toEndOf="@id/tv_nombre_item"
+            app:layout_constraintTop_toBottomOf="@id/tv_nit_item"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textAlignment="textEnd"
+            android:textSize="@dimen/text_size_items"
+            android:textAppearance="?attr/textAppearanceCaption"/>
+        <TextView
+            android:id="@+id/tv_delete_item"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@id/tv_tipo_proveedor_item"
+            app:layout_constraintTop_toBottomOf="@id/tv_nit_item"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:textAlignment="textEnd"
+            android:layout_weight="0.50"
+            android:layout_marginEnd="5dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginHorizontal="@dimen/min_margin_default"
+            android:textAppearance="?attr/textAppearanceCaption"
+            app:drawableEndCompat="@drawable/ic_delete" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.material.card.MaterialCardView>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculadora Kotlin</string>
+    <string name="FullName">Developed by: Gerardo Jose Villeda Erazo</string>
+    <string name="msgEjercicioParaPractica">Ejercicio para practica</string>
+    <string name="msgCalc">Calculadora</string>
+    <string name="msgForm_salir">Salir</string>
+    <string name="msgMy_data">Mis Datos</string>
+    <string name="msgDerechosReservados">Todos los Derechos Reservados ® 2022</string>
+
+    <!-- Datos Alumno Activity-->
+    <string name="DevBy">Desarrollado por:</string>
+    <string name="Name">Nombre:</string>
+    <string name="MyName">Gerardo José Villeda Erazo</string>
+    <string name="Code">Código:</string>
+    <string name="MyCode">VE16-I04-001</string>
+    <string name="Dev">Developer</string>
+
+    <!-- Calculadora Activity-->
+    <string name="signDAC">AC</string>
+    <string name="signDe">DEL</string>
+    <string name="signPer">%</string>
+    <string name="signDivision">/</string>
+    <string name="signMul">*</string>
+    <string name="signRes">-</string>
+    <string name="signSum">+</string>
+    <string name="signIg">=</string>
+</resources>

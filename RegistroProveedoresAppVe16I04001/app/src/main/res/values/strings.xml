@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registro Proveedores APP</string>
+    <string name="btn_Update">Modificar</string>
+    <string name="btn_Delete">Eliminar</string>
+    <string name="text_ID">ID</string>
+    <string name="text_NAME">Nombre</string>
+    <string name="text_NIT">NIT</string>
+    <string name="text_Tipo_Proveedor">Tipo</string>
+    <string name="msg_dialog">Guardando... por favor espere</string>
+    <string name="txt_nuevo_proveedor">Nuevo Proveedor</string>
+    <string name="hint_proveedor_id">Digite ID</string>
+    <string name="hint_proveedor_nombre">Digite Nombre</string>
+    <string name="hint_proveedor_nit">Digite NIT</string>
+    <string name="hint_tipo_proveedor">Digite Tipo Proveedor</string>
+</resources>

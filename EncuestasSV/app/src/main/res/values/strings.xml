@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Encuestas SV</string>
+    <string name="AddInquest">Agregar encuesta</string>
+    <string name="ViewList">Ver lista</string>
+    <string name="MyData">Ver datos</string>
+    <string name="Welcome">Bienvenido</string>
+    <string name="TypeName">Digite el nombre:</string>
+    <string name="Name">Nombre:</string>
+    <string name="DevBy">Desarrollado por:</string>
+    <string name="Save">Guardar</string>
+    <string name="Cancel">Limpiar</string>
+    <string name="MyName">Gerardo José Villeda Erazo</string>
+    <string name="Code">Código:</string>
+    <string name="MyCode">VE16I04001@usonsonate.edu.sv</string>
+    <string name="Gender" translatable="false">Genero:</string>
+    <string name="Female" translatable="false">Femenino</string>
+    <string name="Male" translatable="false">Masculino</string>
+    <string name="Other" translatable="false">Otro</string>
+    <string name="ChooseCategory" translatable="false">Eliga una categoria</string>
+    <string name="Meat" translatable="false">Carnes</string>
+    <string name="Salad" translatable="false">Ensaladas</string>
+    <string name="Fruits" translatable="false">Frutas</string>
+    <string name="Age" translatable="false">Edad:</string>
+    <string name="TypeAge" translatable="false">Digite la edad</string>
+    <string name="msgNext" translatable="false">Siguiente</string>
+    <string name="msgFinish" translatable="false">Finalizar</string>
+    <string name="msgMenu" translatable="false">Ir a menu</string>
+    <string name="msgCancel" translatable="false">Limpiar</string>
+    <string name="Number" translatable="false">Cantidad de encuestados: 0</string>
+    <string name="conditions" translatable="false">Acepto los terminos y condiciones.</string>
+</resources>

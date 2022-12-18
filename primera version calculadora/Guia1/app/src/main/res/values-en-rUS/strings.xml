@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guia1</string>
+    <string name="MiPrimeraGuia">My first guide</string>
+    <string name="msgCalculadora">Calculator</string>
+    <string name="formulario_login">Form Login</string>
+    <string name="mis_datos">Data</string>
+    <string name="msgEmail" translatable="false">Email</string>
+    <string name="msgPassword">Password</string>
+    <string name="msgLogin">Login</string>
+
+
+
+    <string name="signPer">%</string>
+    <string name="signDivision">/</string>
+</resources>

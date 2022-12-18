@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Guia1</string>
+    <string name="MiPrimeraGuia">Mi Primera Guía</string>
+    <string name="msgCalculadora">Calculadora</string>
+    <string name="formulario_login">Formulario Login</string>
+    <string name="mis_datos">Mis Datos</string>
+    <string name="msgEmail" translatable="false">Correo electrónico</string>
+    <string name="msgPassword">Contraseña</string>
+    <string name="msgLogin">Iniciar Sesión</string>
+
+
+    <string name="signPer">%</string>
+    <string name="signDivision">/</string>
+</resources>

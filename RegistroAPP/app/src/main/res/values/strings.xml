@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RegistroAPP</string>
+    <string name="tv_registro">Registro de Datos</string>
+    <string name="tv_captura">Captura de Datos</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_nombre2">Nombre</string>
+    <string name="spinner_genero">Genero</string>
+    <string name="tv_genero">Genero</string>
+    <string name="txt_direccion">Dirección</string>
+    <string name="txt_direccion2">Dirección</string>
+    <string name="txt_dui">Dui</string>
+    <string name="txt_dui2">Dui</string>
+    <string name="txt_fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="txt_fecha_nacimiento2">Fecha de Nacimiento</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_regresar">Regresar</string>
+</resources>

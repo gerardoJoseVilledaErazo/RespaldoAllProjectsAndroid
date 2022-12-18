@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".DatosActivity">
+
+    <TextView
+        android:id="@+id/tv_Desarrollador"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.10"
+        android:textColor="@color/teal_700"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:text="@string/tvDesarrolladores"/>
+
+    <TextView
+        android:id="@+id/tv_Nombre"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_Desarrollador"
+        app:layout_constraintVertical_bias="0.15"
+        android:textSize="20sp"
+        android:hint="@string/tvMiNombre"/>
+
+    <TextView
+        android:id="@+id/tv_Codigo"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_Nombre"
+        app:layout_constraintVertical_bias="0.05"
+        android:textSize="20sp"
+        android:hint="@string/tvMiCodigo" />
+
+    <TextView
+        android:id="@+id/tv_Nombre2"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_Codigo"
+        app:layout_constraintVertical_bias="0.2"
+        android:textSize="20sp"
+        android:hint="@string/tvMiNombre2"/>
+
+    <TextView
+        android:id="@+id/tv_Codigo2"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_Nombre2"
+        app:layout_constraintVertical_bias="0.05"
+        android:textSize="20sp"
+        android:hint="@string/tvMiCodigo2" />
+
+    <TextView
+        android:id="@+id/tv_Version"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_Codigo2"
+        app:layout_constraintVertical_bias="0.2"
+        android:textSize="20sp"
+        android:hint="@string/tvVersion" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

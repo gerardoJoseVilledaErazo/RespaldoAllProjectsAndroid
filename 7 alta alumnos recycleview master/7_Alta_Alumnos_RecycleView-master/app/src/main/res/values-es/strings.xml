@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BD Estudiante</string>
+    <string name="agregar">Agregar</string>
+    <string name="buscar">Buscar</string>
+    <string name="carrera">Carrera</string>
+    <string name="edad">Edad</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="modificar">Modificar</string>
+    <string name="no_control">No. Control</string>
+    <string name="nombre">Nombre del Estudiante</string>
+    <string name="listado">Listado</string>
+</resources>
